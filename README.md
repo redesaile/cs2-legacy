@@ -5,12 +5,12 @@
 > **There is a third-party software used here.** To have full compatibility, see [RadGen](https://radargenerator.github.io/).
 
 ## List of avaliable maps
-Gamemode | Maps from Counter-Strike | Not from Counter-Strike
+Gamemode | Maps from Counter-Strike | Not from Counter-Strike (Coming Soon)
 -------- | ------------------------ | -----------------------------------------
-Fight Yard | [Snow](https://steamcommunity.com/sharedfiles/filedetails/?id=2878048817) | [Dust](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424490), [Aztec](https://steamcommunity.com/sharedfiles/filedetails/?id=2785424875)
+Fight Yard | [Snow](https://steamcommunity.com/sharedfiles/filedetails/?id=3592238209) | Dust, Aztec
 
 ## Gallery
-![Screenshot 5 (Compressed)](https://github.com/user-attachments/assets/1ca190f2-6188-45fc-8906-666bc03ce559)
+![Screenshot 5 (Compressed)](https://github.com/user-attachments/assets/17f74de4-ec6f-4e6a-bc8f-2dea6eb6689e)
 
 ## License
 Do whatever you want. I don't care.
