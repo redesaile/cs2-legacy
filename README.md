@@ -10,7 +10,7 @@ Gamemode | Maps from Counter-Strike | Not from Counter-Strike (Coming Soon)
 Fight Yard | [Snow](https://steamcommunity.com/sharedfiles/filedetails/?id=3592238209) | Dust, Aztec
 
 ## Gallery
-![Screenshot 5 (Compressed)](https://github.com/user-attachments/assets/17f74de4-ec6f-4e6a-bc8f-2dea6eb6689e)
+![Screenshot 4 (Compressed)](https://github.com/user-attachments/assets/91f390aa-167d-4403-a31e-b1df71ea865e)
 
 ## License
 Do whatever you want. I don't care.
